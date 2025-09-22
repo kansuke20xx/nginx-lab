@@ -339,7 +339,7 @@ Nếu ra kết quả như sau khi thành công
 
 ```
 Hello World!
-This is the landing page of `kansuke`.
+This is the landing page of kansuke.
 
 ```
 
@@ -494,7 +494,7 @@ try {
 
 ```
 
-Sau đó truy cập từ web bằng cách: `http:192.168.1.197/todo_list.php`
+Sau đó truy cập từ web bằng cách: `http://192.168.1.197/todo_list.php`
 
 Kết quả là:
 
